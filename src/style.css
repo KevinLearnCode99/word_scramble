@@ -1,0 +1,86 @@
+
+body{
+    font-family: "Open Sans";
+}
+.wrapper{
+    
+    background-color: #e1e1e1;
+    padding: 5% 20%;
+    margin: 0% 10%;
+}
+.sentence{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.one_word_guess{
+    display: flex;
+    margin-bottom: 15px;
+    
+    
+}
+.one_word_guess input{
+    flex-basis:100%;
+    min-width: 0;
+    height: 30px;
+    
+}
+.character_input{
+    background-color: #e1e1e1;
+    text-transform: lowercase;
+    margin-right: 20px;
+
+}
+.space_input{
+    background-color: #ffb74d;
+    text-transform: lowercase;
+    color: white;
+}
+.container{
+    padding: 30px;
+    background-color: white;
+}
+.instruction{
+    text-align: center;
+    font-weight: 600;
+}
+.score{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+        
+}
+.correct{
+    background-color: #4caf50;
+    color: white;
+}
+.hidden{
+    display: none;
+}
+#next_btn{
+    height: 35px;
+    width: 85px;
+    background-color: #4caf50;
+    border: none;
+    color: white;
+
+}
+.btn_area{
+    text-align: center;
+    
+}
+*{
+    text-align: center;
+    font-weight: 700;
+}
+input:focus {
+    outline: none !important;
+}
+input{
+    border: none;
+    display: block;
+    
+}
