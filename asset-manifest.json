@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word_scramble/static/css/main.49487d4d.css",
+    "main.js": "/word_scramble/static/js/main.0518b85c.js",
+    "index.html": "/word_scramble/index.html",
+    "main.49487d4d.css.map": "/word_scramble/static/css/main.49487d4d.css.map",
+    "main.0518b85c.js.map": "/word_scramble/static/js/main.0518b85c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49487d4d.css",
+    "static/js/main.0518b85c.js"
+  ]
+}
